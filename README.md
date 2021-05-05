@@ -6,6 +6,7 @@ Click [Link](https://hkim2979.github.io/project_5/) for a live look.
 
 <p align="center">
   <img src="https://github.com/hkim2979/treehouse_project_5_hongsoonkim/blob/main/gallery_mockup.png">
+  <img src="https://github.com/hkim2979/treehouse_project_5_hongsoonkim/blob/main/photo_lightbox.png">
 </p>
 
 ## Overview
