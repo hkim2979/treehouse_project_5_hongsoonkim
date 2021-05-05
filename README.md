@@ -1,5 +1,5 @@
 # Treehouse An Interactive Photo Gallery - Hongsoon Kim
-<p>The purpose of this project is to simplify repetitive codes and organize file structure using SASS/SCSS from a single CSS.</p>
+<p>The purpose of this project is to create image galleries by using JavaScript and CSS Grd Layout to develope an interactive, searchable gallery of photos.</p>
 
 ## Live Demo
 Click [Link](https://hkim2979.github.io/project_5/) for a live look.
@@ -10,12 +10,14 @@ Click [Link](https://hkim2979.github.io/project_5/) for a live look.
 </p>
 
 ## Overview
-This is a front-end web development project 4 for Treehouse Techdegree. The big deal about this project is not the way it looks but what is behind it. The CSS used in this project was generated into a single file using the Sass Preprocessor. Sass lets the code break up the files into smaller chunks so it is easier to stay organized when you are working on a large project. Also all of the repetitive codes were asked to simplify into few simple codes. Using "&" symbol, mixins etc were all required on this project as well.
+This is a front-end web development project 5 for Treehouse Techdegree. In this project, I created an interactive photo gallery using JavaScript and CSS Grid Layout. Photo gallery has a search filter input, and you can search photos with it's captions. Unmatched photos will be hidden. Also application displays the image in bigger frame when you click the image.
  
  ## Skills
-- SASS/SCSS
+- HTML
+- CSS / CSS Grid Layout
+- JavaScript
 
 ## Conclusion
-I had better understanding of using SCSS to organize complex CSS file.
+By completing this project, I was able to have better understanding how JavaScript interacts with HTML and CSS.
 
  
