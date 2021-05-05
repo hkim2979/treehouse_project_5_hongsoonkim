@@ -1,4 +1,4 @@
-# Treehouse Web Style Guide - Hongsoon Kim
+# Treehouse An Interactive Photo Gallery - Hongsoon Kim
 <p>The purpose of this project is to simplify repetitive codes and organize file structure using SASS/SCSS from a single CSS.</p>
 
 ## Live Demo
